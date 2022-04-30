@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708743939208",
+    "project_id": "dataexam3",
+    "storage_bucket": "dataexam3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708743939208:android:fa6dd86c746b4527d94b3d",
+        "android_client_info": {
+          "package_name": "com.cookandroid.dataexaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708743939208-tv4fag6scd2ebp8fgb238c30itkha95i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ubidIx624jyq2pRFyns2Ex9Ph7gSHDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708743939208-tv4fag6scd2ebp8fgb238c30itkha95i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
